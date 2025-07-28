@@ -1,2 +1,3 @@
 # monad
 mon
+monad airdrop
